@@ -1,0 +1,19 @@
+* {
+    background-color: rgb(73, 70, 70);
+    color: aliceblue;
+}
+
+img {
+    border: 8px solid #0000;
+    height: 183px;
+    width: 183px;
+    border-radius: 50%;
+    background: linear-gradient(
+            357deg,
+            #faf5f5 0%,
+            rgb(121 127 165) 35%,
+            #1f2024 100%
+        )
+        border-box;
+    box-sizing: border-box;
+}

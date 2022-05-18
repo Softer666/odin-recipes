@@ -1,0 +1,35 @@
+* {
+  background-color: grey;
+}
+h1 {
+  color: blueviolet;
+  text-align: center;
+  font-size: 48px;
+  font-family: "Courier New", Courier, monospace;
+}
+button {
+  color: white;
+  font-size: 32px;
+  background-color: green;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Photo {
+  margin-top: 25px;
+  max-width: 370px;
+  border: 8px solid #0000;
+  border-radius: 50%;
+  background: linear-gradient(
+      357deg,
+      #faf5f5 0%,
+      rgb(121 127 165) 35%,
+      #1f2024 100%
+    )
+    border-box;
+  box-sizing: border-box;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
